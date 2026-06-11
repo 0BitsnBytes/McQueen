@@ -94,7 +94,7 @@ Most RC cars are seen as toys, McQueen is definitely not one of those. It is an 
 
 <h2 id="custom-esc">Custom ESC</h2>
 
-Designed specifically for McQueen's drivetrain, the ESC integrates current sensing, protection circuitry, braking, and motor feedback into a compact high-current board.
+The ESC combines current sensing, protection circuitry, braking, and motor feedback into a compact high-current first PCB :).
 
 <h3>Features</h3>
 
@@ -157,9 +157,7 @@ Designed specifically for McQueen's drivetrain, the ESC integrates current sensi
 
 <h2 id="chassis">Chassis</h2>
 
-The chassis was developed around suspension kinematics, component packaging, and aerodynamic efficiency.
-
-It features a fully custom double wishbone suspension system, Ackermann steering geometry, and front and rear aerodynamic elements.
+The Chassis features a fully custom double wishbone suspension system, Ackermann steering, aerodynamic chassis, and front and rear wings.
 
 <h3>Suspension</h3>
 
