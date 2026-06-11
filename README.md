@@ -1,53 +1,46 @@
 
 <h1 align="center">
-  <img src="YOUR_LOGO_URL" width="220">
+  <br>
+  <img src="YOUR_LOGO_URL" alt="McQueen" width="220">
   <br>
   McQueen
+  <br>
 </h1>
 
-<p align="center">
-  High-current electronics, race-inspired suspension, and four drone motors packed into a fully custom AWD platform.
-</p>
+<h4 align="center">
+AWD RC Car • Custom ESC
+</h4>
+
+<div align="center">
+
+</div>
 
 <p align="center">
-  <a href="#overview">Overview</a> •
   <a href="#specifications">Specifications</a> •
   <a href="#links">Links</a> •
-  <a href="#esc">ESC</a> •
+  <a href="#custom-esc">Custom ESC</a> •
   <a href="#chassis">Chassis</a> •
   <a href="#build-guide">Build Guide</a> •
   <a href="#zine">Zine</a> •
   <a href="#credits">Credits</a>
 </p>
 
-<img src="YOUR_BANNER_URL">
+<img src="YOUR_BANNER_URL" alt="McQueen Banner">
 
-<br>
+<p>&nbsp;</p>
 
-<h2 id="overview">Overview</h2>
+McQueen is an AWD RC car with 4 drone-hub-motors. Featuring a DIY 80A ESC with current sense and braking. A fully custom double wishbone suspension with an aerodynamic chassis all powered by 2 6S Lipo batteries. 
 
-McQueen is an all-wheel-drive RC car powered by four drone hub motors and a fully custom motor controller.
+Most RC cars are seen as toys, McQueen is definitely not one of those. It is an attempt to combine high current electronics, aerodynamic bodies, and complex suspension geometries into a small RC Car. 
 
-The project combines:
-
-<ul>
-  <li>High-current power electronics</li>
-  <li>Custom ESC firmware</li>
-  <li>Double wishbone suspension</li>
-  <li>Aerodynamic bodywork</li>
-  <li>Custom CAD and manufacturing workflows</li>
-</ul>
-
-Unlike traditional RC platforms, McQueen was designed from the ground up around performance, manufacturability, and learning.
-
-<hr>
+---
 
 <h2 id="specifications">Specifications</h2>
 
 <table>
 <tr>
 <td><b>Drive System</b></td>
-<td>AWD</td>
+<td>All Wheel Drive (AWD)</td>
 </tr>
 
 <tr>
@@ -57,11 +50,11 @@ Unlike traditional RC platforms, McQueen was designed from the ground up around 
 
 <tr>
 <td><b>Battery</b></td>
-<td>2× 6S LiPo</td>
+<td>2× 6S LiPo Batteries</td>
 </tr>
 
 <tr>
-<td><b>ESC</b></td>
+<td><b>Motor Controller</b></td>
 <td>Custom STM32 ESC</td>
 </tr>
 
@@ -76,74 +69,43 @@ Unlike traditional RC platforms, McQueen was designed from the ground up around 
 </tr>
 
 <tr>
-<td><b>Chassis</b></td>
-<td>Fully Custom 3D Printed Design</td>
-</tr>
-
-<tr>
 <td><b>Braking</b></td>
 <td>Electronic Dynamic Braking</td>
 </tr>
+
+<tr>
+<td><b>Chassis</b></td>
+<td>Fully Custom 3D Printed Design</td>
+</tr>
 </table>
 
-<hr>
+---
 
 <h2 id="links">Links</h2>
 
-<table>
-<tr>
-<td><b>Onshape CAD</b></td>
-<td>
-<a href="https://cad.onshape.com/documents/fc565ca3851146bee43ab660/w/08fa01b8b529e8822f765509/e/27cf93230e8926e0ab4158b0?renderMode=0&uiState=6a2ad1b4ef163228e83211c1">
-View Assembly
-</a>
-</td>
-</tr>
+| Resource | Link |
+|-----------|-----------|
+| CAD Assembly | <a href="https://cad.onshape.com/documents/fc565ca3851146bee43ab660/w/08fa01b8b529e8822f765509/e/27cf93230e8926e0ab4158b0?renderMode=0&uiState=6a2ad1b4ef163228e83211c1">Onshape Assembly</a> |
+| PCB Files | ADD_KICAD_LINK |
+| Bill of Materials | ADD_BOM_LINK |
+| Firmware | ADD_FIRMWARE_LINK |
 
-<tr>
-<td><b>KiCad Project</b></td>
-<td>
-<a href="ADD_KICAD_LINK_HERE">
-PCB Files
-</a>
-</td>
-</tr>
+---
 
-<tr>
-<td><b>BOM</b></td>
-<td>
-<a href="ADD_BOM_LINK">
-Bill of Materials
-</a>
-</td>
-</tr>
+<h2 id="custom-esc">Custom ESC</h2>
 
-<tr>
-<td><b>Firmware</b></td>
-<td>
-<a href="ADD_FIRMWARE_LINK">
-Source Code
-</a>
-</td>
-</tr>
-</table>
-
-<hr>
-
-<h2 id="esc">Custom ESC</h2>
-
-The drivetrain is powered by a custom ESC designed specifically for high-current drone motors.
+Designed specifically for McQueen's drivetrain, the ESC integrates current sensing, protection circuitry, braking, and motor feedback into a compact high-current board.
 
 <h3>Features</h3>
 
 <ul>
-<li>STM32F411CEU6 MCU</li>
-<li>IR21084 Gate Driver</li>
-<li>AS5600 Position Sensor Input</li>
-<li>Current Sensing</li>
+<li>STM32F411CEU6 Microcontroller</li>
+<li>IR21084 MOSFET Driver</li>
+<li>AS5600 Position Sensor Interface</li>
+<li>INA180 Current Sense Amplifier</li>
 <li>MOSFET Temperature Monitoring</li>
-<li>RGB Debug LED</li>
-<li>TVS Protection</li>
+<li>SMCJ54CA TVS Protection</li>
+<li>RGB Status LED</li>
 <li>Electronic Braking</li>
 </ul>
 
@@ -151,25 +113,53 @@ The drivetrain is powered by a custom ESC designed specifically for high-current
 
 <img src="YOUR_SCHEMATIC_IMAGE">
 
+---
+
 <h3>PCB Layers</h3>
 
+<h4>Layer 1</h4>
+
 <img src="LAYER1_IMAGE">
+
+<h4>Layer 2</h4>
+
 <img src="LAYER2_IMAGE">
+
+<h4>Layer 3</h4>
+
 <img src="LAYER3_IMAGE">
+
+<h4>Layer 4</h4>
+
 <img src="LAYER4_IMAGE">
+
+<h4>Layer 5</h4>
+
 <img src="LAYER5_IMAGE">
+
+<h4>Layer 6</h4>
+
 <img src="LAYER6_IMAGE">
+
+---
 
 <h3>Board Views</h3>
 
+<h4>Front</h4>
+
 <img src="FRONT_RENDER">
+
+<h4>Back</h4>
+
 <img src="BACK_RENDER">
 
-<hr>
+---
 
 <h2 id="chassis">Chassis</h2>
 
-The chassis was designed around suspension kinematics, packaging constraints, and aerodynamic performance.
+The chassis was developed around suspension kinematics, component packaging, and aerodynamic efficiency.
+
+It features a fully custom double wishbone suspension system, Ackermann steering geometry, and front and rear aerodynamic elements.
 
 <h3>Suspension</h3>
 
@@ -179,47 +169,57 @@ The chassis was designed around suspension kinematics, packaging constraints, an
 
 <img src="AERO_IMAGE">
 
-<hr>
+---
 
 <h2 id="build-guide">Build Guide</h2>
+
+McQueen consists of two major assemblies:
+
+1. Custom ESC
+2. 3D Printed Chassis
 
 <h3>ESC</h3>
 
 <ol>
-<li>Manufacture PCB using provided Gerbers.</li>
-<li>Select 2oz copper.</li>
-<li>Populate components according to BOM.</li>
-<li>Flash firmware to STM32.</li>
+<li>Upload the Gerber files to your preferred PCB manufacturer.</li>
+<li>Select 2oz copper during fabrication.</li>
+<li>Order the PCB.</li>
+<li>Populate using the ESC BOM.</li>
+<li>Flash the firmware.</li>
 </ol>
 
 <h3>Chassis</h3>
 
 <ol>
-<li>Print all STL files.</li>
-<li>Acquire hardware from BOM.</li>
-<li>Assemble according to Onshape assembly.</li>
-<li>Install electronics.</li>
-<li>Verify steering and suspension movement.</li>
+<li>Download the STL files.</li>
+<li>Print all components in PETG or equivalent material.</li>
+<li>Purchase hardware from the chassis BOM.</li>
+<li>Follow the Onshape assembly.</li>
+<li>Install electronics and drivetrain.</li>
+<li>Secure components using M3 hardware.</li>
+<li>Use cyanoacrylate adhesive where necessary.</li>
 </ol>
 
-<hr>
+---
 
 <h2 id="zine">Zine</h2>
 
 <img src="YOUR_ZINE_IMAGE">
 
-<hr>
+---
 
 <h2 id="credits">Credits</h2>
 
+This project uses:
+
 <ul>
-<li>KiCad — PCB Design</li>
-<li>Onshape — CAD</li>
-<li>Blender — Rendering</li>
-<li>Figma — Documentation & Zine</li>
+<li>KiCad for PCB Design</li>
+<li>Onshape for CAD</li>
+<li>Blender for Rendering</li>
+<li>Figma for Documentation & Zine Design</li>
 </ul>
 
-<hr>
+---
 
 <h2>License</h2>
 
