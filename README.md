@@ -119,7 +119,7 @@ The ESC combines current sensing, protection circuitry, braking, and motor feedb
 
 <h4>Layer 1</h4>
 
-<img src="https://github.com/0BitsnBytes/McQueen/blob/7a6298bfbef7ddecca315248bd9f0d4562a126f2/Media/Layers/Fcu.png" width="100%">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/7a6298bfbef7ddecca315248bd9f0d4562a126f2/Media/Layers/Fcu.png" width="200%">
 
 <h4>Layer 2</h4>
 
