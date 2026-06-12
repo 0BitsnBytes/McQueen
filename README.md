@@ -111,7 +111,7 @@ The ESC combines current sensing, protection circuitry, braking, and motor feedb
 
 <h3>Schematic</h3>
 
-<img src="YOUR_SCHEMATIC_IMAGE">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/47ea6f81e1efe455042053abcc8158a8b07ab687/Media/Custom%20ESC.pdf">
 
 ---
 
