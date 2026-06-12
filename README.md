@@ -202,7 +202,7 @@ McQueen consists of two major assemblies:
 
 <h2 id="zine">Zine</h2>
 
-<img src="YOUR_ZINE_IMAGE">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/82557c4706811a055dfce3bde01ab351c2c9ccda/Zine/Mcqueen.png">
 
 ---
 
