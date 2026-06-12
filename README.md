@@ -25,7 +25,7 @@ AWD RC Car • Custom ESC
   <a href="#credits">Credits</a>
 </p>
 
-<img src="YOUR_BANNER_URL" alt="McQueen Banner">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/3447b7afa9c849aa2a8c434c692866106c892e65/WhatsApp%20Image%202026-06-11%20at%2020.59.32.jpeg" alt="McQueen Banner">
 
 <p>&nbsp;</p>
 
