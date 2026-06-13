@@ -1,4 +1,4 @@
-Value,Reference,Footprint,Datasheet,Qty,Link,Unit Price,Total Price,Comment
+Value,Reference,Footprint,Datasheet,Qty,Link,Unit Price (₹),Total Price (₹),Comment
 5mΩ,"R19,R20,R21,R22,R23,R33,R34,R35,R36,R37,R47,R48,R49,R50,R51",Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder,,15,https://robu.in/product/1-month-warranty-305/#tab-questions,5.00,75,
 330Ω,"R18,R24,R32,R38,R46,R52,R57,R58,R59,R60,R61",Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,https://robu.in/wp-content/uploads/2024/06/C67088.pdf,11,https://quartzcomponents.com/collections/all/products/rc0603jr07330rl-yageo-330-ohm-0603-package-1-10w-smd-resistor-5-tolerance-pack-of-20-pieces,5.00,5,Pack has only 20 peices
 LED_Small_Filled,"D2,D4,D6,D8,D10,D12,D14,D15,D16,D17",LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,,5,https://quartzcomponents.com/collections/all/products/red-led-smd-0805-package-pack-of-50,25.00,25,Pack has only 50 peices
