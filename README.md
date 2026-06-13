@@ -88,7 +88,6 @@ Most RC cars are seen as toys, McQueen is definitely not one of those. It is an 
 | CAD Assembly | <a href="https://cad.onshape.com/documents/fc565ca3851146bee43ab660/w/08fa01b8b529e8822f765509/e/27cf93230e8926e0ab4158b0?renderMode=0&uiState=6a2c09f89a93076bf06deb47">Onshape Assembly</a> |
 | PCB Files | ADD_KICAD_LINK |
 | Bill of Materials | ADD_BOM_LINK |
-| Firmware | ADD_FIRMWARE_LINK |
 
 ---
 
@@ -166,11 +165,12 @@ The Chassis features a fully custom double wishbone suspension system, Ackermann
 
 <h3>Suspension</h3>
 
-<img src="SUSPENSION_IMAGE">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/78b1dd659bcb9b6c3c9956a4622fd1c876eb8f3a/Media/Screenshot%202026-06-13%20at%201.53.44%20PM.png">
 
 <h3>Aerodynamics</h3>
 
 <img src="https://github.com/0BitsnBytes/McQueen/blob/dc33a3d948e1ae7e1605bdf5fcb9056d372ea71e/Media/Render.png">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/78b1dd659bcb9b6c3c9956a4622fd1c876eb8f3a/Media/Screenshot%202026-06-13%20at%201.49.49%20PM.png">
 
 ---
 
