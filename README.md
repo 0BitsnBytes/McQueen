@@ -190,7 +190,6 @@ McQueen consists of two major assemblies:
 <li>Select 2oz copper during fabrication.</li>
 <li>Order the PCB.</li>
 <li>Populate using the ESC BOM.</li>
-<li>Flash the firmware.</li>
 </ol>
 
 <h3>Chassis</h3>
