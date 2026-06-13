@@ -111,7 +111,12 @@ The ESC combines current sensing, protection circuitry, braking, and motor feedb
 
 <h3>Schematic</h3>
 
-<img src="https://github.com/0BitsnBytes/McQueen/blob/f70c43cd8ba5c136140be472552f22bbc6afb9a3/Media/Custom_ESC.pdf">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/dc33a3d948e1ae7e1605bdf5fcb9056d372ea71e/Media/Custom_ESC-1.png">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/dc33a3d948e1ae7e1605bdf5fcb9056d372ea71e/Media/Custom_ESC-2.png">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/dc33a3d948e1ae7e1605bdf5fcb9056d372ea71e/Media/Custom_ESC-3.png">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/dc33a3d948e1ae7e1605bdf5fcb9056d372ea71e/Media/Custom_ESC-4.png">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/dc33a3d948e1ae7e1605bdf5fcb9056d372ea71e/Media/Custom_ESC-5.png">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/dc33a3d948e1ae7e1605bdf5fcb9056d372ea71e/Media/Custom_ESC-6.png">
 
 ---
 
@@ -165,7 +170,7 @@ The Chassis features a fully custom double wishbone suspension system, Ackermann
 
 <h3>Aerodynamics</h3>
 
-<img src="AERO_IMAGE">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/dc33a3d948e1ae7e1605bdf5fcb9056d372ea71e/Media/Render.png">
 
 ---
 
