@@ -25,7 +25,7 @@ AWD RC Car • Custom ESC
   <a href="#credits">Credits</a>
 </p>
 
-<img src="https://github.com/0BitsnBytes/McQueen/blob/3447b7afa9c849aa2a8c434c692866106c892e65/WhatsApp%20Image%202026-06-11%20at%2020.59.32.jpeg" alt="McQueen Banner">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/1a9e9249de90259f2130f4d14ed35b0f7860ea54/Mcqueen.png" alt="McQueen Banner">
 
 <p>&nbsp;</p>
 
@@ -83,12 +83,14 @@ Most RC cars are seen as toys, McQueen is definitely not one of those. It is an 
 
 <h2 id="links">Links</h2>
 
+If clicking the link gives 403 Forbidden, copy paste the link into your browser directly
+
 | Resource | Link |
 |-----------|-----------|
-| CAD Assembly | <a href="https://cad.onshape.com/documents/fc565ca3851146bee43ab660/w/08fa01b8b529e8822f765509/e/27cf93230e8926e0ab4158b0?renderMode=0&uiState=6a2ad1b4ef163228e83211c1">Onshape Assembly</a> |
-| PCB Files | ADD_KICAD_LINK |
-| Bill of Materials | ADD_BOM_LINK |
-| Firmware | ADD_FIRMWARE_LINK |
+| CAD Assembly | [Onshape document](https://cad.onshape.com/documents/fc565ca3851146bee43ab660/w/08fa01b8b529e8822f765509/e/27cf93230e8926e0ab4158b0?renderMode=0&uiState=6a2c09f89a93076bf06deb47)|
+| PCB Files | [Kicanvas Viewer](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2F0BitsnBytes%2Fmcqueen-pcb-file-for-kicanvas) |
+| Bill of Materials for ESC| [BOM for ESC](https://github.com/0BitsnBytes/McQueen/blob/main/BOM/MCQUEEEN%20-%20ESC%20BOM.csv) |
+| Bill of Materials | [BOM for Car](https://github.com/0BitsnBytes/McQueen/blob/main/BOM/MCQUEEEN%20-%20ALL%20compnents.csv) |
 
 ---
 
@@ -111,35 +113,40 @@ The ESC combines current sensing, protection circuitry, braking, and motor feedb
 
 <h3>Schematic</h3>
 
-<img src="YOUR_SCHEMATIC_IMAGE">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/dc33a3d948e1ae7e1605bdf5fcb9056d372ea71e/Media/Custom_ESC-1.png">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/dc33a3d948e1ae7e1605bdf5fcb9056d372ea71e/Media/Custom_ESC-2.png">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/dc33a3d948e1ae7e1605bdf5fcb9056d372ea71e/Media/Custom_ESC-3.png">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/dc33a3d948e1ae7e1605bdf5fcb9056d372ea71e/Media/Custom_ESC-4.png">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/dc33a3d948e1ae7e1605bdf5fcb9056d372ea71e/Media/Custom_ESC-5.png">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/dc33a3d948e1ae7e1605bdf5fcb9056d372ea71e/Media/Custom_ESC-6.png">
 
----
+
 
 <h3>PCB Layers</h3>
 
 <h4>Layer 1</h4>
 
-<img src="https://github.com/0BitsnBytes/McQueen/blob/da16558b193aa0a941869489db19c9611fb1339f/WhatsApp%20Image%202026-06-11%20at%2019.45.43.jpeg">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/7a6298bfbef7ddecca315248bd9f0d4562a126f2/Media/Layers/Fcu.png" width="1000" border=2 >
 
 <h4>Layer 2</h4>
 
-<img src="LAYER2_IMAGE">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/7a6298bfbef7ddecca315248bd9f0d4562a126f2/Media/Layers/INcu-1.png">
 
 <h4>Layer 3</h4>
 
-<img src="LAYER3_IMAGE">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/7a6298bfbef7ddecca315248bd9f0d4562a126f2/Media/Layers/INcu-2.png">
 
 <h4>Layer 4</h4>
 
-<img src="LAYER4_IMAGE">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/7a6298bfbef7ddecca315248bd9f0d4562a126f2/Media/Layers/INcu-3.png">
 
 <h4>Layer 5</h4>
 
-<img src="LAYER5_IMAGE">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/7a6298bfbef7ddecca315248bd9f0d4562a126f2/Media/Layers/INcu-4.png">
 
 <h4>Layer 6</h4>
 
-<img src="LAYER6_IMAGE">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/7a6298bfbef7ddecca315248bd9f0d4562a126f2/Media/Layers/Bcu.png">
 
 ---
 
@@ -147,11 +154,11 @@ The ESC combines current sensing, protection circuitry, braking, and motor feedb
 
 <h4>Front</h4>
 
-<img src="FRONT_RENDER">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/1554619c276bed63636618f7b31e8545352fbfb3/Media/Front.png">
 
 <h4>Back</h4>
 
-<img src="BACK_RENDER">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/1554619c276bed63636618f7b31e8545352fbfb3/Media/Back.png">
 
 ---
 
@@ -161,11 +168,12 @@ The Chassis features a fully custom double wishbone suspension system, Ackermann
 
 <h3>Suspension</h3>
 
-<img src="SUSPENSION_IMAGE">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/78b1dd659bcb9b6c3c9956a4622fd1c876eb8f3a/Media/Screenshot%202026-06-13%20at%201.53.44%20PM.png">
 
 <h3>Aerodynamics</h3>
 
-<img src="AERO_IMAGE">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/dc33a3d948e1ae7e1605bdf5fcb9056d372ea71e/Media/Render.png">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/78b1dd659bcb9b6c3c9956a4622fd1c876eb8f3a/Media/Screenshot%202026-06-13%20at%201.49.49%20PM.png">
 
 ---
 
@@ -183,7 +191,6 @@ McQueen consists of two major assemblies:
 <li>Select 2oz copper during fabrication.</li>
 <li>Order the PCB.</li>
 <li>Populate using the ESC BOM.</li>
-<li>Flash the firmware.</li>
 </ol>
 
 <h3>Chassis</h3>
@@ -202,7 +209,7 @@ McQueen consists of two major assemblies:
 
 <h2 id="zine">Zine</h2>
 
-<img src="YOUR_ZINE_IMAGE">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/82557c4706811a055dfce3bde01ab351c2c9ccda/Zine/Mcqueen.png">
 
 ---
 
