@@ -83,9 +83,11 @@ Most RC cars are seen as toys, McQueen is definitely not one of those. It is an 
 
 <h2 id="links">Links</h2>
 
+If clicking the link gives 403 Forbidden, copy paste the link into your browser directly
+
 | Resource | Link |
 |-----------|-----------|
-| CAD Assembly | https://cad.onshape.com/documents/fc565ca3851146bee43ab660/w/08fa01b8b529e8822f765509/e/27cf93230e8926e0ab4158b0?renderMode=0&uiState=6a2c09f89a93076bf06deb47|
+| CAD Assembly | [Onshape document](https://cad.onshape.com/documents/fc565ca3851146bee43ab660/w/08fa01b8b529e8822f765509/e/27cf93230e8926e0ab4158b0?renderMode=0&uiState=6a2c09f89a93076bf06deb47)|
 | PCB Files | ADD_KICAD_LINK |
 | Bill of Materials | ADD_BOM_LINK |
 
