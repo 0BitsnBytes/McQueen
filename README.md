@@ -85,7 +85,7 @@ Most RC cars are seen as toys, McQueen is definitely not one of those. It is an 
 
 | Resource | Link |
 |-----------|-----------|
-| CAD Assembly | <a href="https://cad.onshape.com/documents/fc565ca3851146bee43ab660/w/08fa01b8b529e8822f765509/e/27cf93230e8926e0ab4158b0?renderMode=0&uiState=6a2c09f89a93076bf06deb47">Onshape Assembly</a> |
+| CAD Assembly | https://cad.onshape.com/documents/fc565ca3851146bee43ab660/w/08fa01b8b529e8822f765509/e/27cf93230e8926e0ab4158b0?renderMode=0&uiState=6a2c09f89a93076bf06deb47|
 | PCB Files | ADD_KICAD_LINK |
 | Bill of Materials | ADD_BOM_LINK |
 
