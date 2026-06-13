@@ -89,7 +89,8 @@ If clicking the link gives 403 Forbidden, copy paste the link into your browser 
 |-----------|-----------|
 | CAD Assembly | [Onshape document](https://cad.onshape.com/documents/fc565ca3851146bee43ab660/w/08fa01b8b529e8822f765509/e/27cf93230e8926e0ab4158b0?renderMode=0&uiState=6a2c09f89a93076bf06deb47)|
 | PCB Files | ADD_KICAD_LINK |
-| Bill of Materials | ADD_BOM_LINK |
+| Bill of Materials for ESC| [BOM for ESC](https://github.com/0BitsnBytes/McQueen/blob/main/BOM/MCQUEEEN%20-%20ESC%20BOM.csv) |
+| Bill of Materials | [BOM for Car](https://google.com) |
 
 ---
 
