@@ -200,6 +200,8 @@ McQueen consists of two major assemblies:
 <li>Print all components in PETG or equivalent material.</li>
 <li>Purchase hardware from the chassis BOM.</li>
 <li>Follow the Onshape assembly.</li>
+<li>Insert Carbon fibre square tubes in wings</li>
+<li>Insert peices of filament throughout the chassis to secure it</li>
 <li>Install electronics and drivetrain.</li>
 <li>Secure components using M3 hardware.</li>
 <li>Use cyanoacrylate adhesive where necessary.</li>
