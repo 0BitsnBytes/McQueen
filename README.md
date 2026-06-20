@@ -173,7 +173,7 @@ The Chassis features a fully custom double wishbone suspension system, Ackermann
 <h3>Aerodynamics</h3>
 
 <img src="https://github.com/0BitsnBytes/McQueen/blob/dc33a3d948e1ae7e1605bdf5fcb9056d372ea71e/Media/Render.png">
-<img src="https://github.com/0BitsnBytes/McQueen/blob/78b1dd659bcb9b6c3c9956a4622fd1c876eb8f3a/Media/Screenshot%202026-06-13%20at%201.49.49%20PM.png">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/main/Media/Screenshot%202026-06-20%20at%206.26.06%E2%80%AFPM.png">
 
 ---
 
