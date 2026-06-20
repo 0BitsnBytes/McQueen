@@ -25,7 +25,7 @@ AWD RC Car • Custom ESC
   <a href="#credits">Credits</a>
 </p>
 
-<img src="https://github.com/0BitsnBytes/McQueen/blob/1a9e9249de90259f2130f4d14ed35b0f7860ea54/Mcqueen.png" alt="McQueen Banner">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/d1444e04de4ffdced4bcad9adb34a4438eee505b/Zine/MQUEEN_BANNER.png" alt="McQueen Banner">
 
 <p>&nbsp;</p>
 
@@ -209,7 +209,7 @@ McQueen consists of two major assemblies:
 
 <h2 id="zine">Zine</h2>
 
-<img src="https://github.com/0BitsnBytes/McQueen/blob/82557c4706811a055dfce3bde01ab351c2c9ccda/Zine/Mcqueen.png">
+<img src="https://github.com/0BitsnBytes/McQueen/blob/d1444e04de4ffdced4bcad9adb34a4438eee505b/Zine/Mcqueen%20(1).png">
 
 ---
 
