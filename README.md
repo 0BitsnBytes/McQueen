@@ -205,6 +205,7 @@ McQueen consists of two major assemblies:
 <li>Install electronics and drivetrain.</li>
 <li>Secure components using M3 hardware.</li>
 <li>Use cyanoacrylate adhesive where necessary.</li>
+<li>Put in the magnets into the slots provided in the main chassis to make it easier to open and close the chassis.</li>
 </ol>
 
 ---
